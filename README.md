@@ -2,7 +2,7 @@
 
 [![Terraform](https://github.com/ChitranshuTiwari/terraform-aws-infra/actions/workflows/terraform.yml/badge.svg)](https://github.com/ChitranshuTiwari/terraform-aws-infra/actions/workflows/terraform.yml)
 
-> A hands-on DevOps portfolio project demonstrating Infrastructure as Code with Terraform. Built for learning and GSoC preparation.
+> A hands-on DevOps portfolio project demonstrating Infrastructure as Code with Terraform.
 
 Infrastructure as Code for AWS - VPC, EKS, and Monitoring modules.
 
